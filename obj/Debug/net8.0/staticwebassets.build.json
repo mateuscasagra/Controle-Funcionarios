@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "b5I7LEe8st2imWW9tVf9kDnqgYfPgXf83FNzDurLjfE=",
+  "Source": "Controle-Funcionarios",
+  "BasePath": "_content/Controle-Funcionarios",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Controle-Funcionarios/wwwroot",
+      "Source": "Controle-Funcionarios",
+      "ContentRoot": "/Users/mateus/Desktop/Controle-Funcionarios/wwwroot/",
+      "BasePath": "_content/Controle-Funcionarios",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/mateus/Desktop/Controle-Funcionarios/wwwroot/Index.html",
+      "SourceId": "Controle-Funcionarios",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/mateus/Desktop/Controle-Funcionarios/wwwroot/",
+      "BasePath": "_content/Controle-Funcionarios",
+      "RelativePath": "Index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Index.html"
+    }
+  ]
+}

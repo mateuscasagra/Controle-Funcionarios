@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/mateus/Desktop/Controle-Funcionarios/wwwroot/Index.html",
+      "PackagePath": "staticwebassets/Index.html"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.Controle-Funcionarios.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.Controle-Funcionarios.props",
+      "PackagePath": "build\\Controle-Funcionarios.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Controle-Funcionarios.props",
+      "PackagePath": "buildMultiTargeting\\Controle-Funcionarios.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Controle-Funcionarios.props",
+      "PackagePath": "buildTransitive\\Controle-Funcionarios.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
