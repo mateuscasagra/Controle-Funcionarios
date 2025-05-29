@@ -2,7 +2,7 @@ Documentacao Controle-Funcionarios
 
 1. Objetivo do Projeto,
 O objetivo deste projeto é desenvolver uma API voltada ao controle e gestão de funcionários, com foco na parte salarial.
-A aplicação foi concebida para possibilitar operações como cálculo de média salarial por setor, consulta de dados individuais e 
+A aplicação foi concebida para possibilitar operações deconsulta de dados individuais e 
 demissão de colaboradores, de forma estruturada e eficiente. Essa solução busca facilitar a gestão por parte dos 
 profissionais de RH e superiores, garantindo agilidade, precisão e consistência no gerenciamento de informações relacionadas aos funcionários.
 
