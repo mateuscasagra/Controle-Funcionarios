@@ -1,11 +1,11 @@
 
-# Por
+# Integrantes
 
 **Carlos Eduardo Gonçalves Faria RGM: 34249559**
 
 **Mateus Zandona Casagrande 37482955**
 
-Documentacao Controle-Funcionarios
+# Documentacao Controle-Funcionarios
 
 1. Objetivo do Projeto,
 O objetivo deste projeto é desenvolver uma API voltada ao controle e gestão de funcionários, com foco na parte salarial.
